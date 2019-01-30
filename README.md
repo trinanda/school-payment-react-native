@@ -1,1 +1,1 @@
-# poc-frontend
+# school-payment-react-native
